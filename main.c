@@ -3,8 +3,6 @@
 void printWelcomeMenu();
 void printOptions();
 void add();
-
-
 void main() {
 
 	printWelcomeMenu();
